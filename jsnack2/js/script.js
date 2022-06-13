@@ -15,4 +15,4 @@ const media = sumNumbers / 10;
 
 //Stampa in console
 console.log(sumNumbers);
-console.log(media);
+console.log('Media', media);

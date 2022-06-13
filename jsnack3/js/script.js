@@ -3,6 +3,8 @@
 // Il programma stampa la somma di tutti i numeri inseriti.
 // Esegui questo programma in due versioni, con il for e con il while.
 
+//VERSIONE CON FOR
+
  //Dichiaro la variabile
  let sumUserNumber = 0;
 
@@ -22,14 +24,14 @@
 //VERSIONE CON WHILE:
 
 // //Dichiaro le variabili
+// let sumUserNumber = 0;
 // let i = 0
 
 
 // //Chiedo fino a 5 volte un numero all'utente
 //  while (i < 5) {
 
-//      let userNumber = prompt ('Dimmi un numero');
-//       userNumber = parseInt (userNumber);
+//     let userNumber = parseInt(prompt("Scrivi un numero"));
 
 //      // Dopo effettuo la somma dei numeri dati
 //       sumNumbers += userNumber;
